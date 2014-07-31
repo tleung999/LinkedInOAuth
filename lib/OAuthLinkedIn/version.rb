@@ -1,0 +1,3 @@
+module OAuthLinkedIn
+  VERSION = "0.0.1"
+end
